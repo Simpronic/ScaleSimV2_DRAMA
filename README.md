@@ -5,7 +5,7 @@ After ScaleSimV2 has generated the traces I use DRAMA to get some DRAM statistic
 
 In this repository I only put channel.py and bridge.py from the DRAMA project, to run the project you need to download ScaleSimV2, add channel.py and bridge.py into the scalesim folder and then run scalesimV2_DRAMA.py script
 
-#Script usage
+# Script usage
 
 py Bridge_ScaleSim2_DRAMA topology_path cfg_path result_folder_name
 
