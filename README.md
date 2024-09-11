@@ -8,3 +8,7 @@ In this repository I only put channel.py and bridge.py from the DRAMA project, t
 #Script usage
 
 py Bridge_ScaleSim2_DRAMA topology_path cfg_path result_folder_name
+
+example of use: 
+
+## py Bridge_ScaleSim2_DRAMA C:\Users\[userdirectoryname]\Desktop\Models\deep_voice.csv C:\Users\[userdirectoryname]\Desktop\cfg\SS2_DRAMA\scale_config_64x64_os.cfg result_folder
